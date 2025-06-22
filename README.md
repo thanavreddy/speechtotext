@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
 </div>
-A simple web app built with **Next.js** that lets you **record your voice and transcribe it into text** using the **Deepgram Speech-to-Text API**.
+A simple web app built with Next.js that lets you record your voice and transcribe it into text using the Deepgram Speech-to-Text API.
 
 ---
 
@@ -31,8 +31,8 @@ A simple web app built with **Next.js** that lets you **record your voice and tr
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/speech-to-text-app.git
-cd speech-to-text-app
+git clone https://github.com/thanavreddy/speechtotext.git
+cd speechtotext
 ```
 
 ### 2. Install Dependencies
