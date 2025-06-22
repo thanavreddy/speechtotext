@@ -22,7 +22,6 @@ A simple web app built with Next.js that lets you record your voice and transcri
 - **Next.js** (React Framework)
 - **Deepgram API** for transcription
 - **Formidable** for file parsing in API routes
-- **MediaRecorder API** for client-side audio recording
 
 ---
 
